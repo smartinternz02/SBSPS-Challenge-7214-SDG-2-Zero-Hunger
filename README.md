@@ -33,5 +33,4 @@ Conclusion: In this study, certain Data Analytics techniques and Machine Learnin
 
 <h3>Google Drive Link:</h3>
 ```
-https://drive.google.com/file/d/1Xd9IjT5nlv_eKChUHe5xxUthJvdsUoMg/view?usp=sharing
-```
+https://drive.google.com/drive/folders/1OjbHgGgcnZ6OB8ojRbaDADcFFicnt97T?usp=sharing```
