@@ -30,3 +30,8 @@ The following workflow has been followed for developing our model:
  5. K Fold Cross Validation: k-fold cross validation is a procedure used to estimate the skill of the model on new data.
 
 Conclusion: In this study, certain Data Analytics techniques and Machine Learning model were adopted to estimate crop price analysis with real-time data. Linear Regression is employed for discovering important information from the agricultural datasets. Using this real-time data and Machine Learning model we could predict the price of the crop at different regions of Telangana for different volumes. XG Boost Model is giving the highest accuracy of 99.9960 %, hence we will use XGBoost Model for prediction and is reliable.
+
+<h3>Google Drive Link:</h3>
+```
+https://drive.google.com/file/d/1Xd9IjT5nlv_eKChUHe5xxUthJvdsUoMg/view?usp=sharing
+```
